@@ -1,0 +1,19 @@
+#one{
+    background-color: black;
+    Height:100px;
+    color:whitesmoke;
+    font-family: Inder;
+    width: 875px;
+    margin-right: 20px;   
+}
+#con{
+    background-color: bisque;
+}
+#all{
+    border: 5px solid blue;
+    width:900px;
+    margin-top: 10px;
+}
+#name{
+    margin-left: 20px;
+}
